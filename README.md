@@ -12,4 +12,6 @@ Models :
 
 Liniar Regression Model From Scratch
 1) Simple and Multiple Linear Regression Model without sklear . All using python and built fro Scratch.
-https://github.com/Nowshin021/Statistics-for-Data-Science-/blob/main/Liniar%20Regression%20From%20Scratch/multi_linear_scatter_abalone.png
+![image](https://user-images.githubusercontent.com/54597147/122651189-f6085300-d158-11eb-8706-24e348e1ec54.png)
+
+
